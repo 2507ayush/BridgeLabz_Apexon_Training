@@ -1,19 +1,19 @@
-# ls        → Lists files and folders in the current directory
-# pwd       → Shows the current working directory path
-# cd        → Changes the current directory
-# mkdir     → Creates a new directory
-# rmdir     → Deletes an empty directory
-# rm        → Deletes files or directories
-# touch     → Creates a new empty file
-# cp        → Copies files or directories
-# mv        → Moves or renames files or directories
-# cat       → Displays file content in the terminal
-# less      → Views file content page by page
-# head      → Shows the first few lines of a file
-# tail      → Shows the last few lines of a file
-# chmod     → Changes file or directory permissions
-# chown     → Changes file or directory ownership
-# grep      → Searches for a pattern in files
-# find      → Searches for files and directories
-# clear     → Clears the terminal screen
-# man       → Shows the manual/help page for a command
+# ls        - Lists files and folders in the current directory
+# pwd       - Shows the current working directory path
+# cd        - Changes the current directory
+# mkdir     - Creates a new directory
+# rmdir     - Deletes an empty directory
+# rm        - Deletes files or directories
+# touch     - Creates a new empty file
+# cp        - Copies files or directories
+# mv        - Moves or renames files or directories
+# cat       - Displays file content in the terminal
+# less      - Views file content page by page
+# head      - Shows the first few lines of a file
+# tail      - Shows the last few lines of a file
+# chmod     - Changes file or directory permissions
+# chown     - Changes file or directory ownership
+# grep      - Searches for a pattern in files
+# find      - Searches for files and directories
+# clear     - Clears the terminal screen
+# man       - Shows the manual/help page for a command
