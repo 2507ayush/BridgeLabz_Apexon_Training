@@ -1,0 +1,174 @@
+LINUX COMMANDS — EXAMPLES 
+
+# ls
+
+Command:
+ls
+
+Example:
+Lists all files and folders in the current directory.
+
+------------------------------------
+# pwd
+
+Command:
+pwd
+
+Example:
+Outputs: /home/user/project
+
+------------------------------------
+# cd
+
+Command:
+cd documents
+
+Example:
+Moves into the documents directory.
+
+------------------------------------
+# mkdir
+
+Command:
+mkdir data
+
+Example:
+Creates a new directory named data.
+
+------------------------------------
+# rmdir
+
+Command:
+rmdir old_folder
+
+Example:
+Deletes old_folder.
+
+------------------------------------
+# rm
+
+Command:
+rm students.txt
+rm -r data
+
+Example:
+Deletes a file or a directory recursively.
+
+------------------------------------
+# touch
+
+Command:
+touch students.txt
+
+Example:
+Creates an empty file named students.txt.
+
+------------------------------------
+# cp
+
+Command:
+cp students.txt backup.txt
+cp -r data data_backup
+
+Example:
+Copies files or directories.
+
+------------------------------------
+# mv
+
+Command:
+mv students.txt students_old.txt
+mv students_old.txt data/
+
+Example:
+Renames or moves files.
+
+------------------------------------
+# cat
+
+Command:
+cat students.txt
+
+Example:
+Displays the content of students.txt.
+
+------------------------------------
+# less
+
+Command:
+less students.txt
+
+Example:
+Views file content page by page.
+
+------------------------------------
+# head
+
+Command:
+head students.txt
+
+Example:
+Shows first 10 lines of the file.
+
+------------------------------------
+# tail
+
+Command:
+tail students.txt
+
+Example:
+Shows last 10 lines of the file.
+
+------------------------------------
+# chmod
+
+Command:
+chmod 755 script.sh
+
+Example:
+Gives execute permission to owner.
+
+------------------------------------
+# chown
+
+Command:
+chown user:user students.txt
+
+Example:
+Changes owner and group of the file.
+
+------------------------------------
+# grep
+
+Command:
+grep "Aman" students.txt
+
+Example:
+Searches for the word "Aman" in the file.
+
+------------------------------------
+# find
+
+Command:
+find . -name "students.txt"
+
+Example:
+Finds students.txt in current directory.
+
+------------------------------------
+# clear
+
+Command:
+clear
+
+Example:
+Clears the terminal screen.
+
+------------------------------------
+# man
+
+Command:
+man ls
+
+Example:
+Opens the manual page for ls command.
