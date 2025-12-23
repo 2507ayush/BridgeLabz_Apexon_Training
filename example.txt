@@ -1,0 +1,162 @@
+GIT COMMANDS — EXAMPLES ->
+
+# init 
+
+Command:
+git init
+
+Example:
+Initializes Git in the folder.
+
+-------------------------------
+# clone
+
+Command:
+git clone https://github.com/2507ayush/BridgeLabz_Apexon_Training.git
+
+Example:
+Creates a local copy of the remote repository.
+
+-------------------------------
+# status
+
+Command:
+git status
+
+Example:
+Shows files as untracked or modified.
+
+-------------------------------
+# add
+
+Command:
+git add students.txt
+git add .
+
+Example:
+Stages students.txt to be committed.
+
+-------------------------------
+# commit
+
+Command:
+git commit -m "Added student data file"
+
+Example:
+Saves students.txt with student names permanently.
+
+-------------------------------
+# branch
+
+Command:
+git branch
+git branch feature
+
+Example:
+Lists branches or creates feature branch.
+
+-------------------------------
+# switch
+
+Command:
+git switch feature
+git switch -c new-feature
+
+Example:
+Moves to another branch or creates & switches.
+
+-------------------------------
+# checkout
+
+Command:
+git checkout main
+
+Example:
+Switches to main branch
+
+-------------------------------
+# diff
+
+Command:
+git diff
+
+Example:
+Shows that what new data was added to our file.
+
+-------------------------------
+# merge
+
+Command:
+git switch main
+git merge feature
+
+Example:
+Combines feature changes into main.
+
+-------------------------------
+# rebase
+
+Command:
+git switch feature
+git rebase main
+
+Example:
+Moves feature commits on top of main.
+
+-------------------------------
+# pull
+
+Command:
+git pull origin main
+
+Example:
+Downloads and merges latest changes from GitHub.
+
+-------------------------------
+# push
+
+Command:
+git push origin main
+git push -u origin feature
+
+Example:
+Uploads commits to the remote repository.
+
+-------------------------------
+# log
+
+Command:
+git log
+git log --oneline
+
+Example:
+Shows commit history with messages.
+
+-------------------------------
+# remote
+
+Command:
+git remote -v
+
+Example:
+Displays linked GitHub repository URLs.
+
+-------------------------------
+# fetch
+
+Command:
+git fetch
+
+Example:
+Downloads remote changes without merging.
+
+-------------------------------
+# revert
+
+Command:
+git revert a1b2c3d
+
+Example:
+Creates a new commit that undoes a previous change.
+
+
