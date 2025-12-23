@@ -1,6 +1,6 @@
 # BridgeLabz_Apexon_Training
 
-# Day 1: 
+# Day 1 -> (22/12/25): 
     * Learned basic Git commands. 
     * Implemented them on the particular Repository.
     * Solved different type of merge conflicts.
@@ -18,7 +18,7 @@
       # add        → Stages files so they are ready to be committed
       # commit     → Saves staged changes to the repository with a descriptive message
 
-# Day 2:
+# Day 2 -> (23/12/25):
     * Learning Conventional Commits in Git. 
     * Learning different Linux command and practically testing them.
     * Implementing all the commands and there use on the particular repository
