@@ -1,19 +1,19 @@
-# init        → Initializes a new Git repository in the current directory
-# clone       → Creates a local copy of a remote repository
-# status      → Shows the current state of files in the working directory
-# add         → Stages files so they are ready to be committed
-# commit      → Saves staged changes to the repository with a message
-# branch      → Lists, creates, or deletes branches
-# switch      → Switches between branches (modern replacement for checkout)
-# checkout    → Switches branches or restores files (older but versatile)
-# merge       → Combines changes from one branch into another
-# rebase      → Reapplies commits on top of another branch for clean history
-# pull        → Fetches and merges changes from the remote repository
-# push        → Uploads local commits to the remote repository
-# diff        → Shows differences between files, commits, or branches
-# log         → Displays commit history
-# remote      → Manages remote repository connections
-# fetch       → Downloads changes from remote without merging
-# revert      → Creates a new commit that undoes a previous commit
+# init        - Initializes a new Git repository in the current directory
+# clone       - Creates a local copy of a remote repository
+# status      - Shows the current state of files in the working directory
+# add         - Stages files so they are ready to be committed
+# commit      - Saves staged changes to the repository with a message
+# branch      - Lists, creates, or deletes branches
+# switch      - Switches between branches (modern replacement for checkout)
+# checkout    - Switches branches or restores files (older but versatile)
+# merge       - Combines changes from one branch into another
+# rebase      - Reapplies commits on top of another branch for clean history
+# pull        - Fetches and merges changes from the remote repository
+# push        - Uploads local commits to the remote repository
+# diff        - Shows differences between files, commits, or branches
+# log         - Displays commit history
+# remote      - Manages remote repository connections
+# fetch       - Downloads changes from remote without merging
+# revert      - Creates a new commit that undoes a previous commit
 
 
