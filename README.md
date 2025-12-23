@@ -22,4 +22,36 @@
     * Learning Conventional Commits in Git. 
     * Learning different Linux command and practically testing them.
     * Implementing all the commands and there use on the particular repository
+
+    Conventional Commits Studied - 
+      # initial           → First commit that sets up the project structure
+      # feat              → Adds a new feature or functionality to the project
+      # fix               → Fixes a bug or issue in the existing code
+      # chore             → Non-feature tasks like cleanup, config, or tooling updates
+      # dependencies      → Updates or modifies production dependencies
+      # devDependencies   → Updates dependencies used only during development
+      # peerDependencies  → Updates peer dependency requirements for compatibility
+      # metadata          → Changes project metadata (version, author, repo info, etc.)
+
+    Linux Commands studied - 
+      # ls        → Lists files and folders in the current directory
+      # pwd       → Shows the current working directory path
+      # cd        → Changes the current directory
+      # mkdir     → Creates a new directory
+      # rmdir     → Deletes an empty directory
+      # rm        → Deletes files or directories
+      # touch     → Creates a new empty file
+      # cp        → Copies files or directories
+      # mv        → Moves or renames files or directories
+      # cat       → Displays file content in the terminal
+      # less      → Views file content page by page
+      # head      → Shows the first few lines of a file
+      # tail      → Shows the last few lines of a file
+      # chmod     → Changes file or directory permissions
+      # chown     → Changes file or directory ownership
+      # grep      → Searches for a pattern in files
+      # find      → Searches for files and directories
+      # clear     → Clears the terminal screen
+      # man       → Shows the manual/help page for a command
+
     
