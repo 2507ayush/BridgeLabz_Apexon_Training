@@ -54,4 +54,25 @@
       # clear     → Clears the terminal screen
       # man       → Shows the manual/help page for a command
 
+# Day 3 -> (24/12/25):
+    * Revising all the previous Git and Linux Commands
+    * Exploring some more Git commands and there usage 
     
+      # config      - Sets or gets Git configuration (username, email, editor, aliases)
+      # help        - Displays help information for Git commands
+      # version     - Shows the installed Git version
+      # restore     - Restores files in the working tree
+      # reset       - Unstages changes or moves HEAD to a previous commit
+      # stash       - Temporarily saves uncommitted changes
+      # stash pop   - Applies and removes the latest stash
+      # stash apply - Applies a stash without removing it
+      # clean       - Removes untracked files and directories
+      # tag         - Creates, lists, or deletes tags
+      # show        - Shows details of a commit or object
+      # cherry-pick - Applies a specific commit from another branch
+      # blame       - Shows who last modified each line of a file
+      # reflog      - Shows history of HEAD and branch movements
+      # bisect      - Finds the commit that introduced a bug
+      # archive     - Creates an archive (zip/tar) of the repository
+      # worktree    - Manages multiple working trees
+      # grep        - Searches for text in repository files
